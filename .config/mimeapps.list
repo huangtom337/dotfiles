@@ -1,0 +1,5 @@
+[Added Associations]
+text/plain=kitty.desktop;vim.desktop;userapp-kitty -e vim-AGXDL2.desktop;
+
+[Default Applications]
+text/plain=userapp-kitty -e vim-AGXDL2.desktop
