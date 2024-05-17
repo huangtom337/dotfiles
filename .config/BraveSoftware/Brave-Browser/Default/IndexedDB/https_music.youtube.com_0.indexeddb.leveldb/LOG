@@ -1,7 +1,0 @@
-2024/05/17-13:36:04.222 2df Reusing MANIFEST /home/dirge/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/05/17-13:36:04.222 2df Recovering log #12
-2024/05/17-13:36:04.223 2df Reusing old log /home/dirge/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/000012.log 
-2024/05/17-13:36:06.447 2db Compacting 1@1 + 1@2 files
-2024/05/17-13:36:06.452 2db Generated table #15@1: 396 keys, 37800 bytes
-2024/05/17-13:36:06.452 2db Compacted 1@1 + 1@2 files => 37800 bytes
-2024/05/17-13:36:06.455 2db compacted to: files[ 0 0 1 0 0 0 0 ]
