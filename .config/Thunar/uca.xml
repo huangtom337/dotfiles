@@ -5,11 +5,23 @@
 	<name>Open Terminal Here</name>
 	<submenu></submenu>
 	<unique-id>1713648716156128-1</unique-id>
-	<command>exo-open --working-directory %f --launch TerminalEmulator</command>
+	<command>kitty --directory %f</command>
 	<description>Example for a custom action</description>
 	<range></range>
 	<patterns>*</patterns>
 	<startup-notify/>
 	<directories/>
+</action>
+<action>
+	<icon>nvim</icon>
+	<name>Open with nvim</name>
+	<submenu></submenu>
+	<unique-id>1713801428659761-1</unique-id>
+	<command>/bin/kitty -e nvim %f</command>
+	<description></description>
+	<range>*</range>
+	<patterns>*</patterns>
+	<other-files/>
+	<text-files/>
 </action>
 </actions>

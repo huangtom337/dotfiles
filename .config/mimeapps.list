@@ -1,5 +1,9 @@
 [Added Associations]
 text/plain=kitty.desktop;vim.desktop;userapp-kitty -e vim-AGXDL2.desktop;
+text/x-lua=userapp-kitty -e vim-AGXDL2.desktop;userapp-kitty -e nvim-5F69M2.desktop;
+application/x-zerosize=nvim.desktop;
 
 [Default Applications]
 text/plain=userapp-kitty -e vim-AGXDL2.desktop
+text/x-lua=userapp-kitty -e nvim-5F69M2.desktop
+application/x-zerosize=nvim.desktop

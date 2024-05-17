@@ -1,1 +1,1 @@
-xrandr --output DP-1 --primary --auto --mode 1920x1080 --rate 239.96 --output DP-3 --left-of DP-1 --auto --mode 1920x1080 --rate 164.92 --output DP-2 --right-of DP-1 --auto --mode 1920x1080 --rate 164.92 --rotate left
+xrandr --output DP-0 --primary --auto --mode 1920x1080 --rate 239.96 --output DP-4 --left-of DP-0 --auto --mode 1920x1080 --rate 164.92 --rotate normal --output DP-2 --right-of DP-0 --auto --mode 1920x1080 --rate 164.92 --rotate left

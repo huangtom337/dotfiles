@@ -1,0 +1,26 @@
+2024/05/16-13:43:01.931 2db Creating DB /home/dirge/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb since it was missing.
+2024/05/16-13:43:01.940 2db Reusing MANIFEST /home/dirge/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/16-14:37:49.200 2dc Level-0 table #5: started
+2024/05/16-14:37:49.217 2dc Level-0 table #5: 1381126 bytes OK
+2024/05/16-14:37:49.221 2dc Delete type=0 #3
+2024/05/16-18:51:08.816 2e0 Level-0 table #7: started
+2024/05/16-18:51:08.833 2e0 Level-0 table #7: 1594335 bytes OK
+2024/05/16-18:51:08.837 2e0 Delete type=0 #4
+2024/05/16-18:59:03.475 2db Compacting 1@1 + 1@2 files
+2024/05/16-18:59:03.488 2db Generated table #8@1: 354 keys, 34587 bytes
+2024/05/16-18:59:03.488 2db Compacted 1@1 + 1@2 files => 34587 bytes
+2024/05/16-18:59:03.492 2db compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/16-18:59:03.492 2db Delete type=2 #5
+2024/05/16-18:59:03.492 2db Delete type=2 #7
+2024/05/16-19:33:30.872 2dc Level-0 table #10: started
+2024/05/16-19:33:30.888 2dc Level-0 table #10: 886108 bytes OK
+2024/05/16-19:33:30.892 2dc Delete type=0 #6
+2024/05/16-19:45:55.401 2dc Compacting 1@1 + 1@2 files
+2024/05/16-19:45:55.413 2dc Generated table #11@1: 371 keys, 26837 bytes
+2024/05/16-19:45:55.413 2dc Compacted 1@1 + 1@2 files => 26837 bytes
+2024/05/16-19:45:55.417 2dc compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/16-19:45:55.417 2dc Delete type=2 #10
+2024/05/16-19:45:55.417 2dc Delete type=2 #8
+2024/05/16-20:13:55.206 2dc Level-0 table #13: started
+2024/05/16-20:13:55.232 2dc Level-0 table #13: 841553 bytes OK
+2024/05/16-20:13:55.238 2dc Delete type=0 #9
