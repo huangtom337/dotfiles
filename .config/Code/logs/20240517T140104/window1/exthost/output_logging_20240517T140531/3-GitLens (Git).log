@@ -1,0 +1,12 @@
+[2024-05-17 21:05:34.284] [      4ms] [/home/dirge/Code/Craigslist/Scraper] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+
+[2024-05-17 21:05:43.011] [     11ms] [/home/dirge/Code/Craigslist/Scraper] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+

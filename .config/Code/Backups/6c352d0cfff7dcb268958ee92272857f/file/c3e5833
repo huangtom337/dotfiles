@@ -1,0 +1,3 @@
+file:///home/dirge/Code/Craigslist/Scraper/main.js {"mtime":1715979942760,"ctime":1715979942760,"size":0,"etag":"3cdoo9rg40","orphaned":false,"typeId":""}
+
+const data = await fetch()
